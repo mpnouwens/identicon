@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+A unique generated profile picture based on a string.
 
 ## Installation
 
